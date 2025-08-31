@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **yashpra4903@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1mhbYd6dxrDTqPXdX52khdNcxPuzR6Iw7?usp=sharing](https://drive.google.com/drive/folders/1mhbYd6dxrDTqPXdX52khdNcxPuzR6Iw7?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1mhbYd6dxrDTqPXdX52khdNcxPuzR6Iw7?usp=sharing)
 
 - ⚡ Fun fact **I love solving backend problems. Open for collaborating on projects.**
 
