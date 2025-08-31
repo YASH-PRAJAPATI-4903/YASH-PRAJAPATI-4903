@@ -52,6 +52,6 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-prajapati-4903&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-prajapati-4903&show_icons=true&locale=en&layout=compact&theme=github_dark" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-prajapati-4903&show_icons=true&locale=en&theme=dark" alt="yash-prajapati-4903" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-prajapati-4903&show_icons=true&locale=en&theme=github_dark" alt="yash-prajapati-4903" /></p>
