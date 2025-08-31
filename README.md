@@ -9,6 +9,8 @@
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-prajapati-4903" alt="yash-prajapati-4903" /></a> </p> --->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-prajapati-4903&label=Profile%20views&color=0e75b6&style=flat" alt="yash-prajapati-4903" /> </p>
+
 - 🔭 I’m currently working on [Spring Boot Backend development projects.](https://github.com/YASH-PRAJAPATI-4903/E-Commerce-API)
 
 - 🌱 I’m currently learning **Spring Boot, including JPA, Security, Microservices, Java-DSA, Hibernate and REST API best practices.**
