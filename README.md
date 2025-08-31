@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash Prajapati</h1>
+
+<div align="center">
+  <img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"
+       alt="snake" /></a>
+</div>
+
 <h3 align="center">A passionate Java developer from India.</h3>
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-prajapati-4903" alt="yash-prajapati-4903" /></a> </p> --->
